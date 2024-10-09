@@ -1,0 +1,19 @@
+{
+  "name": "historial-ginecologico",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "electron": "^32.1.2",
+    "electron-reload": "^2.0.0-alpha.1",
+    "electron-store": "^8.2.0",
+    "mysql2": "^3.11.3",
+    "toastr": "^2.1.4"
+  }
+}
